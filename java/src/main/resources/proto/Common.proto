@@ -1,0 +1,12 @@
+option java_package = "gen";
+option java_outer_classname = "Common";
+
+/* test*/
+message TestProto
+{
+	optional int32 test1 = 1; // test1
+	optional int32 test2 = 2; // test2
+	optional int32 test3 = 3; // test3
+	optional int32 test4 = 4; // test4
+	optional bool test5 = 5; // test5
+}
