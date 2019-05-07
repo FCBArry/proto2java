@@ -1,8 +1,8 @@
 # Compiled class file
 *.class
 *.iml
-.idea/
-target/
+java/.idea/
+java/target/
 
 # Log file
 *.log
